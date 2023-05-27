@@ -10,8 +10,7 @@
 
 ### Techs
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-          
+[JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)          
 
 ### Контакты
 email: [dzhaneta.kabertay@gmail.com](mailto:dzhaneta.kabertay@gmail.com "dzhaneta.kabertay@gmail.com")  
